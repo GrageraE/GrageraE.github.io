@@ -1,0 +1,11 @@
+h2, h1{
+    color: red;
+}
+
+h1{
+    font-size: 32px;
+}
+
+p{
+    color: blue;
+}
